@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+.contaner{
+    width: 600px;
+    height: 400px;
+    background-color: rebeccapurple;
+    margin: 10% auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    flex-direction: column;
+}
+audio{
+    background: transparent;
+    width: 500px;
+}
